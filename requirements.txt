@@ -1,0 +1,8 @@
+# .venv -- W5, W6, H6. See SETUP.md.
+# torch's CUDA build matters, not just its version -- setup.sh installs this
+# from download.pytorch.org/whl/cu128 explicitly. See SETUP.md's "which torch
+# build" section before bumping this.
+torch==2.11.0
+transformers==5.16.1
+accelerate==1.14.0
+hf_transfer==0.1.9

@@ -1,0 +1,5 @@
+{
+  "perplexity_threshold": 500,
+  "use_guard": false,
+  "blocklist": []
+}

@@ -1,0 +1,7 @@
+guide.md
+__pycache__/
+*.pyc
+.venv/
+.venv-gcg/
+suffix.txt
+suffix.json
